@@ -1,0 +1,416 @@
+<!doctype html>
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1" />
+<meta name="author" content="Tatiana Schegoleva"/>
+<meta name="keywords" content="дизайн интерьера, ландшафтный дизайн, архитектура, строительство, дизайн квартиры"/>
+<meta name="description" content="Компания Деталь-СП. Полный комплекс услуг по дизайну."/>
+<meta name="robots" content="index,follow" />
+<title>Detail - Деталь|Дизайн интерьера, ландшафтный дизайн, архитектура, строительство, дизайн квартиры</title>
+<style>  
+
+  @media screen and (min-device-width: 1600px) {
+   
+   
+   div {width: 1500px;}
+	
+   }
+   @media screen and (device-width: 1280px) {
+ 
+	
+	div {width: 1100px;}
+   }
+   @media screen and (device-width: 1024px) {
+	
+
+    div {width: 980px;}
+	
+   }
+	
+  </style>
+
+<link href="Main.css" rel="stylesheet" type="text/css">
+<script src="js/scroll.js" type="text/javascript" charset="utf-8"></script>
+
+
+<link href="/images/index/favicon.gif" rel="icon" type="image/gif">
+</head>
+
+<body>
+
+ <div id="main_menu" align="center"> 
+ <ul> 
+	<li><a href="about.html"><img src="images/navigation/about_company.png" alt="О компании"/></a></li>
+    <li><img src="images/navigation/Rectangle_nav.png"/></li>
+    <li><a href="arch.html"><img src="images/navigation/architect.png" alt="Архитектура"/></a></li>
+    <li><img src="images/navigation/Rectangle_nav.png"/></li>
+    <li><a href="interior.html"><img src="images/navigation/interior.png" alt="Интерьеры"/></a></li>
+    <li><img src="images/navigation/Rectangle_nav.png"/></li>
+    <li><a href="land.html"><img src="images/navigation/landscape.png" alt="Ландшафт"/></a></li>
+    <li><img src="images/navigation/Rectangle_nav.png"/></li>
+    <li><a href="neg.html"><img src="images/navigation/negotiation.png" alt="Согласование"/></a></li>
+    <li><img src="images/navigation/Rectangle_nav.png"/></li>
+    <li><a href="build.html"><img src="images/navigation/build.png" alt="Строительство"/></a></li>
+    <li><img src="images/navigation/Rectangle_nav.png"/></li>
+    <li><a href="part.html"><img src="images/navigation/partners.png" alt="Партнеры"/></a></li>
+    <li><img src="images/navigation/Rectangle_nav.png"/></li>
+    <li><a href="cont.html"><img src="images/navigation/contacts.png" alt="Контакты"/></a></li>
+  </ul>
+ </div> 
+ 
+
+<div id="main_logo" align="center"><img src="images/index/main_logo.png" align="center" alt="" /></div>
+
+<ul id="projects" class="clearfix">
+    <li id="l66">
+        <a href="arch.html">
+                        <img src="images/index/66.png"  alt="" />          
+            <span class="projectName">Архитектура</span>
+       </a> 
+    </li>
+    <li id="l10">
+        <a href="interior.html">
+                        <img  src="images/index/10.png" alt="" />
+            <span class="projectName">Интерьеры</span>
+      </a>
+    </li>
+    <li id="l6">
+      <a href="arch.html">
+                        <img src="images/index/26.png" alt="" />
+           <span class="projectName">Архитектура</span>
+      </a>
+    </li>
+ 
+  <li id="l67">
+        <a href="interior.html">
+                        <img src="images/index/67.png" alt="" />
+           <span class="projectName" >Интерьеры</span>
+        </a>
+    </li>
+  <li id="l7">
+        <a href="interior.html">
+                        <img src="images/index/7.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+   <li id="l26">
+        <a href="land.html">
+                        <img src="images/index/71.png" alt="" />
+           <span class="projectName">Ландшафт</span>
+        </a>
+    </li>
+    <li id="l13">
+        <a href="land.html">
+                        <img src="images/index/13.png" alt="" />
+           <span class="projectName">Ландшафт</span>
+        </a>
+    </li>
+    <li id="l68">
+        <a href="interior.html">
+                        <img src="images/index/68.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+      </li>
+     <li id="l8">
+        <a href="interior.html">
+                        <img src="images/index/8.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l9">
+        <a href="interior.html">
+                        <img src="images/index/9.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l60">
+        <a href="arch.html">
+                        <img src="images/index/60.png" alt="" />
+           <span class="projectName">Архитектура</span>
+        </a>
+    </li>
+    <li id="l21">
+        <a href="interior.html">
+                        <img src="images/index/21.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l33">
+        <a href="interior.html">
+                        <img src="images/index/33.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l35">
+        <a href="interior.html">
+                        <img src="images/index/35.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l20">
+        <a href="interior.html">
+                        <img src="images/index/20.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l37">
+        <a href="interior.html">
+                        <img src="images/index/37.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l23">
+        <a href="interior.html">
+                        <img src="images/index/23.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l36">
+        <a href="interior.html">
+                        <img src="images/index/36.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l38">
+        <a href="interior.html">
+                        <img src="images/index/38.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l1">
+        <a href="interior.html">
+                        <img src="images/index/1.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l34">
+        <a href="interior.html">
+                        <img src="images/index/34.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l17">
+        <a href="build.html">
+                        <img src="images/index/17.png" alt="" />
+           <span class="projectName">Строительство</span>
+        </a>
+    </li>
+    <li id="l43">
+        <a href="interior.html">
+                        <img src="images/index/43.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+  <li id="l42">
+        <a href="interior.html">
+                        <img src="images/index/42.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li> 
+   <li id="l18">
+        <a href="build.html">
+                        <img src="images/index/18.png" alt="" />
+           <span class="projectName">Строительство</span>
+        </a>
+    </li>
+    <li id="l46">
+        <a href="interior.html">
+                        <img src="images/index/46.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+  <li id="l44">
+        <a href="interior.html">
+                        <img src="images/index/44.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li> 
+   <li id="l30">
+        <a href="interior.html">
+                        <img src="images/index/30.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+  <li id="l54">
+        <a href="interior.html">
+                        <img src="images/index/54.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l25">
+        <a href="arch.html">
+                        <img src="images/index/25.png" alt="" />
+           <span class="projectName">Архитектура</span>
+        </a>
+    </li>
+    <li id="l22">
+        <a href="interior.html">
+                        <img src="images/index/22.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l31">
+        <a href="interior.html">
+                        <img src="images/index/31.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l5">
+        <a href="build.html">
+                        <img src="images/index/5.png" alt="" />
+           <span class="projectName">Строительство</span>
+        </a>
+    </li>
+    <li id="l55">
+        <a href="arch.html">
+                        <img src="images/index/55.png" alt="" />
+           <span class="projectName">Архитектура</span>
+        </a>
+    </li>
+    <li id="l51">
+        <a href="interior.html">
+                        <img src="images/index/51.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l49">
+        <a href="land.html">
+                        <img src="images/index/49.png" alt="" />
+           <span class="projectName">Ландшафт</span>
+        </a>
+    </li>
+    <li id="l73">
+        <a href="interior.html">
+                        <img src="images/index/73.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l62">
+        <a href="interior.html">
+                        <img src="images/index/62.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l64">
+        <a href="arch.html">
+                        <img src="images/index/64.png" alt="" />
+           <span class="projectName">Архитектура</span>
+        </a>
+    </li>
+    <li id="l86">
+        <a href="interior.html">
+                        <img src="images/index/86.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l58">
+        <a href="interior.html">
+                        <img src="images/index/58.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l61">
+        <a href="arch.html">
+                        <img src="images/index/61.png" alt="" />
+           <span class="projectName">Архитектура</span>
+        </a>
+    </li>
+    <li id="l57">
+        <a href="interior.html">
+                        <img src="images/index/57.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l69">
+        <a href="interior.html">
+                        <img src="images/index/69.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l99">
+        <a href="interior.html">
+                        <img src="images/index/99.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l32">
+        <a href="build.html">
+                        <img src="images/index/32.png" alt="" />
+           <span class="projectName">Строительство</span>
+        </a>
+    </li>
+    <li id="l4">
+        <a href="build.html">
+                        <img src="images/index/4.png" alt="" />
+           <span class="projectName">Строительство</span>
+        </a>
+    </li>
+   <li id="l41">
+        <a href="build.html">
+                        <img src="images/index/41.png" alt="" />
+           <span class="projectName">Строительство</span>
+        </a>
+    </li>
+    <li id="l45">
+        <a href="interior.html">
+                        <img src="images/index/45.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l70">
+        <a href="interior.html">
+                        <img src="images/index/70.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l3">
+        <a href="build.html">
+                        <img src="images/index/3.png" alt="" />
+           <span class="projectName">Строительство</span>
+        </a>
+    </li>
+    <li id="l2">
+        <a href="build.html">
+                        <img src="images/index/2.png" alt="" />
+           <span class="projectName">Строительство</span>
+        </a>
+    </li>
+    <li id="l84">
+        <a href="interior.html">
+                        <img src="images/index/84.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l12">
+        <a href="build.html">
+                        <img src="images/index/12.png" alt="" />
+           <span class="projectName">Строительство</span>
+        </a>
+    </li>
+    <li id="l15">
+        <a href="arch.html">
+                        <img src="images/index/15.png" alt="" />
+           <span class="projectName">Архитектура</span>
+        </a>
+    </li>
+    <li id="l19">
+        <a href="interior.html">
+                        <img src="images/index/19.png" alt="" />
+           <span class="projectName">Интерьеры</span>
+        </a>
+    </li>
+    <li id="l11">
+        <a href="arch.html">
+                        <img src="images/index/11.png" alt="" />
+           <span class="projectName">Архитектура</span>
+        </a>
+    </li>  
+  </ul>
+
+   
+<footer align="center"><img src="images/index/footer.png" alt="" align="center" /></footer>
+
+       
+  </body>
+
+</html>
