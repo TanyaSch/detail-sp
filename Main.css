@@ -1,0 +1,173 @@
+@charset "utf-8";
+
+
+
+body {
+	  width:100%;
+	  max-width: 1200px;  	 
+	  background-color:#fff; 
+	  margin:0 auto 0 auto;
+	  text-align:center;
+	  padding:0;  
+	   
+}
+
+/*Navigation bar*/
+ 
+#main_menu {	
+	   width: auto;
+	   margin: 1% 0 1% 0;
+	   padding: 0;
+	   font-size: 0; 
+}
+
+#main_menu ul{	
+    	  
+	   margin: 0;
+	   padding: 0;   
+}
+
+#main_menu li {
+	   display:inline;	
+	    
+} 
+
+
+
+#main_menu li a {               
+	   vertical-align: top;
+}
+ 
+#main_menu a:active {
+	   opacity: 0.6;
+}
+
+#main_menu a:hover {
+	   opacity: 0.6;
+}
+
+/*MAIN LOGO*/
+#main_logo {
+	   width: auto;
+	   margin: 0 0 1% 0;	 
+}
+
+#main_logo img {
+	        max-width: 70%; 		
+			margin: 0; 
+			padding: 0;			
+}
+
+
+/*PROJECT CONTENT*/
+ul#projects {
+            width: 100%;
+	        margin: 1% 0 0 0;
+			padding: 0;
+}
+
+#projects li {
+				display:inline-block;
+				float: left;
+				width: 33.33333%;
+				position: relative;
+}
+
+#projects .projectName {
+				width: 100%;			
+				text-align: center;
+				font-size: 3vw;
+			    display: none;
+				position: absolute;
+			    left: 0;
+				text-shadow:
+
+                        -1px -1px 0 #534F4F,
+
+                        1px -1px 0 #534F4F,
+
+                        -1px 1px 0 #534F4F,
+
+                        1px 1px 0 #534F4F;				
+
+				top: 42%;		
+				z-index: 100;
+	            color: black;
+				color: white;
+				font-family:"Arial Black", Gadget, Arial, sans-serif;
+                font-weight: 900;  
+}
+
+@media only screen and (min-width : 1600px),
+only screen and (min-device-width : 1600px)
+
+ {
+   
+   
+ #projects .projectName {font-size: 2.5vw;}
+	
+   }
+   
+@media only screen and (min-width : 1920px),
+only screen and (min-device-width : 1920px)
+
+ {
+   
+   
+ #projects .projectName {font-size: 2vw;}
+	
+   }
+   
+ @media only screen and (min-width : 2560px),
+only screen and (min-device-width : 2560px)
+
+ {
+   
+   
+ #projects .projectName {font-size: 1vw;}
+	
+   }
+
+
+#projects li img {
+    width: 100%;
+	vertical-align: middle;
+}
+
+#projects a {
+    -webkit-transition: opacity .2s ease-in;
+    -o-transition: opacity .2s ease-in;
+    -moz-transition: opacity .2s ease-in;
+    transition: opacity .2s ease-in;
+}
+
+#projects a:hover {
+    opacity: 0.6;
+	
+}
+#projects a:hover .projectName {
+    display: block;
+}
+
+#projects a,
+#projects a:hover {
+    text-decoration: none;
+}
+
+footer img {
+	         
+			 width: 40%;
+	         margin:2% auto 5% auto;	
+			 padding: 0;
+}
+
+.scrollTop{
+	width:100%;
+	background:url('scroll.png') 0 0 no-repeat;
+	width: 90px; /* изменяем: ширина картинки */
+	height: 85px; /* изменяем: высота кнопки - половина высоты картинки */
+	bottom:10px;
+	left:90%;
+}
+
+	
